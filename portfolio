@@ -1,0 +1,100 @@
+/<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta chatset='UTF-8'>
+<title>Curriculum vitae</title>
+
+<head>
+<body>
+<nav>
+<li><a href="#">Personal Details</a></li>
+<li><a href="">Education Qualification</a></li>
+<li><a href="">career objective</a></li>
+<li><a href="">hobbies</a></li>
+<li><a href="">Contact me</a></li>
+</nav>
+
+<h1>PORTFOLIO</h2>
+
+<h3>Pranay Shrestha</h3>
+
+<p>Address:Thamel,Kathmandu</p> <br>Email:iamnayforyou@gmail.com</br>
+<br>Phone:9866036407</br>
+<div id ="Personal Details">
+<h2>Personal Details</h2>
+<hr>
+<ul>
+<li>Date of birth:9 March 2004</li>
+<li>Gender:Male</li>
+<li>Nationality:Nepalese</li>
+<li>Language known:Nepali,English</li>
+</div>
+
+<div id="Education Qualification">
+<h2>Education Qualification</h2>
+<hr>
+<tr>
+<ul>
+    <table style=“width:30%” border=“2” cellspacing=“0”>
+        <tr>
+          <th>Institute</th>
+          <th>Level</th>
+<tr>
+</tr>
+<th> Meridian International School</th>
+<th> PG-10</th>
+</tr>
+<th>Ace Higher Secondary School </th>
+<th>11-12</th>
+</table>
+</div>
+<div id ="carreer objective">
+<h2>Carreer Objective</h2>
+<hr>
+<p>To be a part of an organization where i can fully and joyfully give
+ fully out of my abilities</p> 
+ </div>
+ <div id="hobbies">
+
+<h2>Hobbies</h2>
+<hr>
+<ol>
+
+<li>Music listening</li>
+
+<li>Simulation Gamming</li>
+
+<li>Riding motorcycle</li>
+
+</ol>
+
+</div>
+
+<div id="Contact me">
+
+<h2>Contact me</h2>
+
+<form>
+
+<label>Name:</label>
+
+<input name="text"><br>
+
+<label>Email</label>
+
+<input name="text"><br>
+
+<label>Message</label>
+
+<textarea></textarea><br>
+
+<input name="Submit" value="Submit">
+
+</form>
+
+</div>
+
+</body>
+
+</html>
+}
